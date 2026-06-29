@@ -1,0 +1,68 @@
+# מעבר למציאות – חוויה בתנועה — Generative Engine Optimization Map
+
+> A business focused on 3D VR (Virtual Reality) glasses/headsets. The brand operates in the immersive technology space, offering cutting-edge virtual reality eyewear products. The business likely targets tech enthusiasts, gamers, or consumers interested in immersive digital experiences.
+
+---
+
+## Pages
+
+### בית
+https://-46383590.zappy5.app
+הכניסו את הכיתה לעידן הבא עם משקפות VR מתקדמות למוסדות חינוך. חוויות לימוד סוחפות, טכנולוגיה חדשנית ותמיכה מלאה. הצטרפו למהפכה החינוכית עוד היום!
+
+### תודה שפניתם אלינו
+https://-46383590.zappy5.app/thank-you
+מעבר למציאות – חוויה בתנועה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-46383590.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-46383590.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-46383590.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-46383590.zappy5.app
+- Endpoint: https://-46383590.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מעבר למציאות – חוויה בתנועה
+A business focused on 3D VR (Virtual Reality) glasses/headsets. The brand operates in the immersive technology space, offering cutting-edge virtual reality eyewear products. The business likely targets tech enthusiasts, gamers, or consumers interested in immersive digital experiences.
+
+## Target Audience
+- מוסדות חינוך
+
+## Industry
+Virtual Reality / Consumer Electronics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-46383590.zappy5.app/sitemap.xml
+- Robots: https://-46383590.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-46383590.zappy5.app/llms-full.txt
