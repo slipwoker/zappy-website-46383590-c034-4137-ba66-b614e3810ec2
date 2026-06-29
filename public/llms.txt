@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://-46383590.zappy5.app
+https://example.com
 הכניסו את הכיתה לעידן הבא עם משקפות VR מתקדמות למוסדות חינוך. חוויות לימוד סוחפות, טכנולוגיה חדשנית ותמיכה מלאה. הצטרפו למהפכה החינוכית עוד היום!
 
 ### תודה שפניתם אלינו
-https://-46383590.zappy5.app/thank-you
+https://example.com/thank-you
 מעבר למציאות – חוויה בתנועה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-46383590.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-46383590.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-46383590.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-46383590.zappy5.app
-- Endpoint: https://-46383590.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -63,6 +63,6 @@ Virtual Reality / Consumer Electronics
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-46383590.zappy5.app/sitemap.xml
-- Robots: https://-46383590.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-46383590.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
